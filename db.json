@@ -5,6 +5,22 @@
     "comments": [
         { "id": 1, "body": "some comment", "postId": 1 }
     ],
-    "profile": { "name": "typicode" }
+    "profile": { "name": "typicode" },
+    "trmval": [{
+            "term_id": "Country",
+            "term_code": "CD",
+            "term_meaning": "民主剛果"
+        },
+        {
+            "term_id": "Country",
+            "term_code": "CC",
+            "term_meaning": "可可斯群島"
+        },
+        {
+            "term_id": "Country",
+            "term_code": "CA",
+            "term_meaning": "加拿大"
+        }
+    ]
 
 }
