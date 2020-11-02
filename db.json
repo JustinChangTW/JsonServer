@@ -7,16 +7,19 @@
     ],
     "profile": { "name": "typicode" },
     "trmval": [{
+            "id": 1,
             "term_id": "Country",
             "term_code": "CD",
             "term_meaning": "民主剛果"
         },
         {
+            "id": 2,
             "term_id": "Country",
             "term_code": "CC",
             "term_meaning": "可可斯群島"
         },
         {
+            "id": 3,
             "term_id": "Country",
             "term_code": "CA",
             "term_meaning": "加拿大"
